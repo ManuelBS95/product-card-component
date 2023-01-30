@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/ManuelBS95/Notifications-Page)
-- Live Site URL: [Github Pages](https://manuelbs95.github.io/Notifications-Page/)
+- Solution URL: [Github](https://github.com/ManuelBS95/product-card-component)
+- Live Site URL: [Github Pages](https://manuelbs95.github.io/product-card-component/)
 
 ### Built with
 
